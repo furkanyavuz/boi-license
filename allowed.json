@@ -1,7 +1,4 @@
 {
   "app": "BOIManagerProV3",
-  "allowed": [
-    
-    "DFE8385F72BA82534D97500B6AAC1984D44373E1B5CCD51C80CEA6AD0F6C9E1A"
-  ]
+  "allowedTokens": []
 }
